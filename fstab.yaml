@@ -1,1 +1,4 @@
-
+mountpoints:
+  /:
+    url: https://content.da.live/SumitT25/demoaemsite05/
+    type: markup
